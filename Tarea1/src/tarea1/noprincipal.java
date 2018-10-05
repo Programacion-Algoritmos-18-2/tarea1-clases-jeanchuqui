@@ -9,13 +9,8 @@ package tarea1;
  *
  * @author Usuario
  */
-public class Tarea1 {
+public class noprincipal {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+    String nombre;
+    String apellido;
 }
