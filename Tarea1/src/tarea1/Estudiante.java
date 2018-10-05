@@ -26,6 +26,6 @@ public class Estudiante {
         System.out.println("Ingrese el apellido del estudiante:");
         ob2.apellido = entrada.nextLine();
  
-        System.out.printf("Estudiante 1\nNombre: %s\nApellido: %s\n\nEstudiante 2\nNombre: %s\nApellido: %s",ob1.nombre,ob1.apellido,ob2.nombre,ob2.apellido);
+        System.out.printf("Estudiante 1\nNombre: %s\nApellido: %s\n\nEstudiante 2\nNombre: %s\nApellido: %s\n",ob1.nombre,ob1.apellido,ob2.nombre,ob2.apellido);
     }
 }
